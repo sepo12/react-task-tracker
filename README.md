@@ -1,3 +1,6 @@
+#created task tracker app with react and json to hold data and act as backend
+run npm run server to create db.json file that will hold your data
+run npm start to run app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
